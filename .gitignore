@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+products.csv
+products.csv.lock
+conversation_log.csv
+conversation_log.csv.lock
